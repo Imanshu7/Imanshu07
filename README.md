@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://seeyaai.unaux.com">
+    <img src="seeya-badge.svg" alt="Seeya AI Premium Badge" />
+  </a>
+</div>
+
 <h1>Currently Building: <a href="https://seeyaai.unaux.com" >Seeya AI</h1>
 
 I am the creator of **Seeya AI**, a smart, 100% offline desktop AI assistant designed for absolute privacy. It doesn't just chat; it interacts with your operating system natively.
